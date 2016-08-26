@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3f74bbaead45acad983f1d3b33c010c9:173b4038ce1c6bd5ab1a29f4c7b170b1:64579bdbec2771c22cfb2b793b0f2467$ -->
+<TextureAtlas imagePath="game-atlass.png" width="761" height="383">
+    <SubTexture name="field_entity_1" x="638" y="294" width="60" height="60"/>
+    <SubTexture name="field_entity_2" x="700" y="294" width="60" height="60"/>
+    <SubTexture name="intro_background" x="1" y="1" width="635" height="381"/>
+    <SubTexture name="intro_btn_play" x="638" y="1" width="110" height="110" frameX="-1" frameY="-1" frameWidth="111" frameHeight="111"/>
+    <SubTexture name="intro_btn_play_disable" x="638" y="113" rotated="true" width="109" height="108" frameX="0" frameY="0" frameWidth="111" frameHeight="111"/>
+    <SubTexture name="restart_btn" x="638" y="223" width="69" height="69"/>
+</TextureAtlas>

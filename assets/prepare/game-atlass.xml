@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:eddd2676641aaf26bac0cdd35e343537:3ebd13ab1a98dc8f624e20e3cf4d0c94:64579bdbec2771c22cfb2b793b0f2467$ -->
+<TextureAtlas imagePath="game-atlass.png" width="746" height="381">
+    <SubTexture name="intro_background" x="0" y="0" width="635" height="381"/>
+    <SubTexture name="intro_btn_play" x="635" y="0" width="111" height="111"/>
+</TextureAtlas>
