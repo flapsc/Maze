@@ -80,9 +80,9 @@ package org.games.maze.view.intro
 			if ( !_gameModel.validateData() )
 			{
 				_gameModel.width	=
-				_gameModel.height 	= 20;
+				_gameModel.height 	= _gameDataConfig.maxMazeSize;
 				_gameModel.numExit	= 1;
-				_gameModel.viewCellSize = 20;
+				_gameModel.viewCellSize = _gameDataConfig.minMazeSize;
 			}
 		}
 		

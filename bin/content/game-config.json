@@ -1,8 +1,8 @@
 {
-	"pathToLocalSave":"MazeLocalDataSave",
+	"pathToLocalSave":"M2azeLocalDataSave",
 	"maxMazeSize":40,
 	"minMazeSize":5,
-	"minViewCellSize":5,
+	"minViewCellSize":10,
 	"startPointPercent":{"x":0.5, "y":0.5 },
 	"wallColor":"0xFF400000",
 	"characterColor":"0xFF0080FF"
